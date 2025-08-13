@@ -1,2 +1,2 @@
 # Keypad-UI
-# A project to mimic the key pad on the phone
+A project to mimic the key pad on the phone
